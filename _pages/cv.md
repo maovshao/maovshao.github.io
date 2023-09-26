@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Know more about me at [CV](https://maovshao.github.io/files/CV.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021--2024, M.S. in Applied Mathematics, Fudan University
+* 2017--2021, B.S. in Automation (Pattern Recognition), Southeast University
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Funding application
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+2023-, Photosynthetic Fund Phase III, Large-scale Protein Function Prediction
+2022-2023, Wudao Research Funding of Beijing Academy of Artificial Intelligence, Protein Language Model Pre-training
+
+Competition awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+2023, Kaggle — CAFA 5 Protein Function Prediction, Rank 1 in the Leaderboard
+2021, The Sixth China Computer Federation Bioinformatics Conference Challenge 2, Rank 3
+2018, 2018 ACM-ICPC Asian Regional Competition Nanjing Station, Bronze Medal
+
+Internship experience
 ======
-* Currently signed in to 43 different slack teams
+2020–2021, ByteDance (TikTok), Shanghai, Real-Time Communications Client Department
