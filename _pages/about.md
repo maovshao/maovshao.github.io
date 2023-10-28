@@ -16,15 +16,15 @@ Biography
 
 Publications
 ======
-+ **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\* and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Under subsequent peer review of **Nature Communications**, Presention on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), bioRxiv,* 2023. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
-
-Funding application
-======
-* 2023-, Photosynthetic Fund Phase III, Large-scale Protein Function Prediction
-* 2022-2023, Wudao Research Funding of Beijing Academy of Artificial Intelligence, Protein Language Model Pre-training
++ **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\* and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Under subsequent peer review of **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), bioRxiv,* 2023. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
 
 Competition awards
 ======
 * 2023, Kaggle — CAFA 5 Protein Function Prediction, Rank 1 in the Leaderboard
 * 2021, China Computer Federation Bioinformatics Conference Challenge 2, Rank 3
 * 2018, ACM-ICPC Asian Regional Competition Nanjing Station, Bronze Medal
+
+Research funding application
+======
+* 2023-, Photosynthetic Fund Phase III, Large-scale Protein Function Prediction
+* 2022-2023, Wudao Research Funding of Beijing Academy of Artificial Intelligence, Protein Language Model Pre-training
