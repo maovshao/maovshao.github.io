@@ -16,7 +16,7 @@ Biography
 
 Publications
 ======
-+ **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\* and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Under subsequent peer review of **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), bioRxiv,* 2023. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
++ **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\* and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Under the second round of peer review at **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), bioRxiv,* 2023. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
 
 Competition awards
 ======
