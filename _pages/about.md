@@ -16,9 +16,9 @@ Biography
 
 Publications
 ======
-* **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Accepted in principle, **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), bioRxiv,* 2023. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
+* **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Accepted in principle, **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference)*, 2024. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
 
-* Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*. COMEBin allows effective binning of metagenomic contigs using COntrastive Multi-viEw representation learning. *Accepted, **Nature Communications***, 2023.
+* Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*. COMEBin allows effective binning of metagenomic contigs using COntrastive Multi-viEw representation learning. *Accepted, **Nature Communications***, 2023. [[PDF](https://www.nature.com/articles/s41467-023-44290-z)]
 
 Competition awards
 ======
