@@ -11,14 +11,18 @@ redirect_from:
 Biography
 ======
 * Welcome to my homepage! I am a M.S. student in Applied Mathematics, [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/), where I am advised by Prof. [Shanfeng Zhu](https://istbi.fudan.edu.cn/lnen/info/1157/2128.htm). Previously, I got my B.Eng. degree from [Southeast University](https://www.seu.edu.cn/english/). I also had a great time interning at [ByteDance](https://www.bytedance.com/en/).
-* My research interests lie in protein language model and its applications in homologous protein search and protein function prediction.
+* My research interests lie in **Protein Language Model** and its applications in **Homologous Protein Search** and **Protein Punction Prediction**.
 * Please see my [CV](https://maovshao.github.io/files/CV.pdf) for more details.
 
 Publications
 ======
-* **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*. Protein language model powers accurate and fast sequence search for remote homology. *Accepted in principle, **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference)*, 2024. [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.03.535375)]
+* PLMSearch: Protein language model powers accurate and fast sequence search for remote homology  
+**Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*  
+**Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), 2024. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)]
 
-* Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*. COMEBin allows effective binning of metagenomic contigs using COntrastive Multi-viEw representation learning. *Accepted, **Nature Communications***, 2023. [[PDF](https://www.nature.com/articles/s41467-023-44290-z)]
+* COMEBin allows effective binning of metagenomic contigs using COntrastive Multi-viEw representation learning  
+Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*  
+**Nature Communications**, 2024. [[DOI](https://doi.org/10.1038/s41467-023-44290-z)]
 
 Competition awards
 ======
