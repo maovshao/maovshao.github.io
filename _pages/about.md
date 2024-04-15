@@ -22,7 +22,7 @@ Publications
 <!-- **Nature Communications**, invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), 2024. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)] -->
 **Nature Communications**, 2024. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)]
 
-* COMEBin allows effective binning of metagenomic contigs using COntrastive Multi-viEw representation learning  
+* Effective binning of metagenomic contigs using contrastive multi-view representation learning  
 Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*  
 **Nature Communications**, 2024. [[DOI](https://doi.org/10.1038/s41467-023-44290-z)]
 
