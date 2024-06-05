@@ -19,7 +19,7 @@ Publications
 ======
 * PLMSearch: Protein language model powers accurate and fast sequence search for remote homology  
 **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*  
-**Nature Communications**, 2024, Invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), RECOMB 2024, ISMB 2024. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)], [[WebServer](https://dmiip.sjtu.edu.cn/PLMSearch)], [[GitHub](https://github.com/maovshao/PLMSearch)]
+**Nature Communications**, 2024, Invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), **RECOMB 2024**, **ISMB 2024**. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)], [[WebServer](https://dmiip.sjtu.edu.cn/PLMSearch)], [[GitHub](https://github.com/maovshao/PLMSearch)]
 
 * Effective binning of metagenomic contigs using contrastive multi-view representation learning  
 Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*  
