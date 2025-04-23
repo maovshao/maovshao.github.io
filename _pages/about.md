@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 * Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/) with Prof. [Shanfeng Zhu](https://istbi.fudan.edu.cn/lnen/info/1157/2128.htm). Previously, I got my B.Eng. degree in Automation from [Southeast University](https://www.seu.edu.cn/english/). I also have a great time interning at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
-* My research interests lie in **Protein Language Model** and its applications in areas like **Homologous Protein Search**. I firmly believe that protein language models will reshape numerous fields in bioinformatics, and I am enthusiastically dedicating my efforts towards it.
+* My research interests lie in **Protein Language Model** and its applications in areas like **Homologous Protein Search**.
 
 * See my [CV](https://maovshao.github.io/files/CV.pdf) for more of what we can do with protein language models.
 
@@ -28,6 +28,7 @@ Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu
 
 Competition awards
 ======
-* 2023, Kaggle — CAFA 5 Protein Function Prediction, Rank 1 in the Leaderboard
-* 2021, China Computer Federation Bioinformatics Conference Challenge 2, Rank 3
-* 2018, ACM-ICPC Asian Regional Competition Nanjing Station, Bronze Medal
+* 2024, CASP 16, Rank 1 in ”Per-atom/per-residue accuracy estimates” Track (Group Name: PLMFold). [[LINK](https://predictioncenter.org/casp16/zscores_EMA.cgi)]
+* 2023, Kaggle — CAFA 5 Protein Function Prediction, Rank 1 in the Leaderboard (Group Name: GOCurator). [[LINK](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)]
+* 2021, China Computer Federation Bioinformatics Conference Challenge 2, Rank 3.
+* 2018, ACM-ICPC Asian Regional Competition Nanjing Station, Bronze Medal.
