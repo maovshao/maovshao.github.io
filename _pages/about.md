@@ -10,9 +10,8 @@ redirect_from:
 
 Biography
 ======
-* Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/) with Prof. [Shanfeng Zhu](https://istbi.fudan.edu.cn/lnen/info/1157/2128.htm). Previously, I got my B.Eng. degree in Automation from [Southeast University](https://www.seu.edu.cn/english/). I also have a great time interning at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
-* My research interests lie in **Protein Language Model** and its applications in areas like **Homologous Protein Search**.
-
+* Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/), advised by Prof. [Fengzhu Sun](https://scholar.google.com/citations?user=7X0YfAcAAAAJ&hl=en). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Shanfeng Zhu](https://scholar.google.com/citations?user=Aq6tXksAAAAJ&hl=en). I am advised by Prof. [Le Song](https://dasongle.github.io/) during my internship at [Genbio AI](https://genbio.ai/). I also had a great time interning at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
+* My research interests lie in **Biology Foundation Model** and its applications in areas like **Homologous Protein Search**.
 * See my [CV](https://maovshao.github.io/files/CV.pdf) for more of what we can do with protein language models.
 
 Publications
@@ -20,11 +19,12 @@ Publications
 * PLMSearch: Protein language model powers accurate and fast sequence search for remote homology  
 **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*  
 **Nature Communications**, 2024, Invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), **RECOMB 2024**, **ISMB 2024**. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)], [[WebServer](https://dmiip.sjtu.edu.cn/PLMSearch)], [[GitHub](https://github.com/maovshao/PLMSearch)]
+Included in **Large Language Models (LLMs) in Protein Bioinformatics** Book, Part of the book series: Methods in Molecular Biology, Springer Nature 2025. [[DOI](https://link.springer.com/protocol/10.1007/978-1-0716-4623-6_14)]
+
 
 * Effective binning of metagenomic contigs using contrastive multi-view representation learning  
 Ziye Wang, Ronghui You, Haitao Han, **Wei Liu**, Fengzhu Sun\*, and Shanfeng Zhu\*  
 **Nature Communications**, 2024. [[DOI](https://doi.org/10.1038/s41467-023-44290-z)], [[GitHub](https://github.com/ziyewang/COMEBin)]
-
 
 Competition awards
 ======
