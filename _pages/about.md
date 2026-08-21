@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Liu's homepage"
+title: false
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,8 @@ redirect_from:
 
 Biography
 ======
-* Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/), advised by Prof. [Fengzhu Sun](https://scholar.google.com/citations?user=7X0YfAcAAAAJ&hl=en). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Shanfeng Zhu](https://scholar.google.com/citations?user=Aq6tXksAAAAJ&hl=en). I am advised by Prof. [Le Song](https://dasongle.github.io/) during my internship at [Genbio AI](https://genbio.ai/). I also had a great time interning at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
+* Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/), advised by Prof. [Fengzhu Sun](https://scholar.google.com/citations?user=7X0YfAcAAAAJ&hl=en). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Shanfeng Zhu](https://scholar.google.com/citations?user=Aq6tXksAAAAJ&hl=en). During my 2025–2026 research engineering internship at [GenBio AI](https://genbio.ai/), I was advised by Prof. [Le Song](https://dasongle.github.io/). I also interned at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
 * My research interests lie in **Biology Foundation Model** and its applications in areas like **Homologous Protein Search**.
-* See my [CV](https://maovshao.github.io/files/CV.pdf) for more of what we can do with protein language models.
 
 Publications
 ======
@@ -32,3 +31,9 @@ Competition awards
 * 2023, Kaggle — CAFA 5 Protein Function Prediction, Rank 1 in the Leaderboard (Group Name: GOCurator). [[LINK](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)]
 * 2021, China Computer Federation Bioinformatics Conference Challenge 2, Rank 3.
 * 2018, ACM-ICPC Asian Regional Competition Nanjing Station, Bronze Medal.
+
+Internship experience
+======
+* **2025–2026**, [GenBio AI](https://genbio.ai/), Palo Alto — Research Engineer Intern.
+* **2024**, [Biomap](https://www.biomap.com/), Beijing (Remote) — Algorithm Intern.
+* **2020–2021**, [ByteDance](https://www.bytedance.com/en/), Shanghai — Research and Development Engineer.

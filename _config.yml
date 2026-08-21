@@ -86,7 +86,8 @@ author:
   location         : "Los Angeles, CA, US"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=rSVpwlUAAAAJ&hl=en"
+  curriculum_vitae: "/files/CV.pdf"
   email            : maovshao@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
