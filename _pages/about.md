@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 * Welcome to my homepage! I am a Ph.D. student at the [Department of Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/), [University of Southern California](https://www.usc.edu/), advised by Prof. [Fengzhu Sun](https://scholar.google.com/citations?user=7X0YfAcAAAAJ&hl=en). I got my M.S. degree in Applied Mathematics from [ISTBI](https://istbi.fudan.edu.cn/lnen/), [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Shanfeng Zhu](https://scholar.google.com/citations?user=Aq6tXksAAAAJ&hl=en). During my 2025–2026 research engineering internship at [GenBio AI](https://genbio.ai/), I was advised by Prof. [Le Song](https://dasongle.github.io/). I also interned at [ByteDance](https://www.bytedance.com/en/) and [Biomap](https://www.biomap.com/).
-* My research interests lie in **Biology Foundation Model** and its applications in areas like **Homologous Protein Search**.
+* My research interests include **Biology Foundation Models**, **Homologous Protein Search**, **Protein Structure Prediction**, and **Virus–Host Interaction**.
 
 Publications
 ======
