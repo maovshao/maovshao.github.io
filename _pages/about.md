@@ -15,6 +15,10 @@ Biography
 
 Publications
 ======
+* VHSeek: biology foundation model-based virus representations revealing virus host associations  
+**Wei Liu**, Yuqiu Wang, Jed A. Fuhrman, Hui Li, Le Song, Gauri G. Rao, and Fengzhu Sun\*  
+**Nature Communications**, 2026. [[DOI](https://doi.org/10.1038/s41467-026-79392-x)], [[GitHub](https://github.com/maovshao/VHSeek)]
+
 * PLMSearch: Protein language model powers accurate and fast sequence search for remote homology  
 **Wei Liu**, Ziye Wang, Ronghui You, Chenghan Xie, Hong Wei, Yi Xiong, Jianyi Yang\*, and Shanfeng Zhu\*  
 **Nature Communications**, 2024, Invited to present on **WAIC 2023** (**W**orld **A**rtificial **I**ntelligence **C**onference), **RECOMB 2024**, **ISMB 2024**. [[DOI](https://doi.org/10.1038/s41467-024-46808-5)], [[WebServer](https://dmiip.sjtu.edu.cn/PLMSearch)], [[GitHub](https://github.com/maovshao/PLMSearch)]
